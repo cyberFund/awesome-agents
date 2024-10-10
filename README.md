@@ -4,4 +4,3 @@
 
 [DSPy](https://github.com/stanfordnlp/dspy)
 
-# awesome-agents
