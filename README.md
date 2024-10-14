@@ -6,3 +6,8 @@
 
 [AutoGen](https://github.com/microsoft/autogen)
 
+[motleycrew](https://github.com/ShoggothAI/motleycrew) 
+
+
+
+
